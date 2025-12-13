@@ -13,5 +13,5 @@ This folder contains **Jupyter Notebook lab reports** for the course *Introducti
 - Include problem , code, and results.
 
 ## Notes
-Further lab reports are archived in a separate repository and linked here via Zenodo.
-[Click Tere To See Further Lab Reports](https://github.com/Mughees-ud-din/Introduction-to-AI-programming./tree/main/Lab%20Reports)
+For improved organization, additional reports have been maintained in a separate repository.    
+[Click here to access the additional reports]([link](https://github.com/Mughees-ud-din/Introduction-to-AI-programming./tree/main/Lab%20Reports))
