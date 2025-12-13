@@ -14,4 +14,4 @@ This folder contains **Jupyter Notebook lab reports** for the course *Introducti
 
 ## Notes
 For improved organization, additional reports have been maintained in a separate repository.    
-[Click here to access the additional reports]([link](https://github.com/Mughees-ud-din/Introduction-to-AI-programming./tree/main/Lab%20Reports))
+[Click here to access the additional reports](https://github.com/Mughees-ud-din/Introduction-to-AI-programming./tree/main/Lab%20Reports)
